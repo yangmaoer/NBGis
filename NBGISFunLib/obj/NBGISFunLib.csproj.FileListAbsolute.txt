@@ -1,0 +1,10 @@
+E:\ArcGIS\NBGIS.PluginEngine\NBGISFunLib\bin\Debug\NBGISFunLib.dll
+E:\ArcGIS\NBGIS.PluginEngine\NBGISFunLib\bin\Debug\NBGISFunLib.pdb
+E:\ArcGIS\NBGIS.PluginEngine\NBGISFunLib\obj\Debug\ResolveAssemblyReference.cache
+E:\ArcGIS\NBGIS.PluginEngine\NBGISFunLib\obj\Debug\NBGISFunLib.dll
+E:\ArcGIS\NBGIS.PluginEngine\NBGISFunLib\obj\Debug\NBGISFunLib.pdb
+C:\Documents and Settings\王华斌\桌面\NBGIS.PluginEngine\NBGIS.PluginEngine\NBGISFunLib\bin\Debug\NBGISFunLib.dll
+C:\Documents and Settings\王华斌\桌面\NBGIS.PluginEngine\NBGIS.PluginEngine\NBGISFunLib\bin\Debug\NBGISFunLib.pdb
+C:\Documents and Settings\王华斌\桌面\NBGIS.PluginEngine\NBGIS.PluginEngine\NBGISFunLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\王华斌\桌面\NBGIS.PluginEngine\NBGIS.PluginEngine\NBGISFunLib\obj\Debug\NBGISFunLib.dll
+C:\Documents and Settings\王华斌\桌面\NBGIS.PluginEngine\NBGIS.PluginEngine\NBGISFunLib\obj\Debug\NBGISFunLib.pdb

@@ -1,0 +1,5 @@
+bin\Debug\NBGISFunLib.dll
+bin\Debug\NBGISFunLib.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\NBGISFunLib.dll
+obj\Debug\NBGISFunLib.pdb

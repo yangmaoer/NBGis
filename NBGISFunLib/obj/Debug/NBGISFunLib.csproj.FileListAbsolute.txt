@@ -1,0 +1,19 @@
+E:\study\NBGIS.PluginEngine\NBGISFunLib\bin\Debug\NBGISFunLib.dll
+E:\study\NBGIS.PluginEngine\NBGISFunLib\bin\Debug\NBGISFunLib.pdb
+E:\study\NBGIS.PluginEngine\bin\Debug\plugin\NBGISFunLib.dll
+E:\study\NBGIS.PluginEngine\bin\Debug\plugin\NBGISFunLib.pdb
+E:\study\NBGIS.PluginEngine\NBGISFunLib\obj\Debug\ResolveAssemblyReference.cache
+E:\study\NBGIS.PluginEngine\NBGISFunLib\obj\Debug\NBGISFunLib.dll
+E:\study\NBGIS.PluginEngine\NBGISFunLib\obj\Debug\NBGISFunLib.pdb
+D:\desktop\NBGIS.PluginEngine -正常运行副本\bin\Debug\plugin\NBGISFunLib.dll
+D:\desktop\NBGIS.PluginEngine -正常运行副本\bin\Debug\plugin\NBGISFunLib.pdb
+D:\desktop\NBGIS.PluginEngine -正常运行副本\NBGISFunLib\obj\Debug\ResolveAssemblyReference.cache
+D:\desktop\NBGIS.PluginEngine -正常运行副本\NBGISFunLib\obj\Debug\NBGISFunLib.dll
+D:\desktop\NBGIS.PluginEngine -正常运行副本\NBGISFunLib\obj\Debug\NBGISFunLib.pdb
+E:\test\NBGIS\bin\Debug\plugin\NBGISFunLib.dll
+E:\test\NBGIS\bin\Debug\plugin\NBGISFunLib.pdb
+E:\test\NBGIS\NBGISFunLib\obj\Debug\ResolveAssemblyReference.cache
+E:\test\NBGIS\NBGISFunLib\obj\Debug\NBGISFunLib.dll
+E:\test\NBGIS\NBGISFunLib\obj\Debug\NBGISFunLib.pdb
+E:\test\NBGis\bin\plugin\NBGISFunLib.dll
+E:\test\NBGis\bin\plugin\NBGISFunLib.pdb

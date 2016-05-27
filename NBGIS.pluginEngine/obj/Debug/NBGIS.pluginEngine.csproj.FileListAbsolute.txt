@@ -1,0 +1,6 @@
+E:\test\NBGis\bin\plugin\NBGIS.PluginEngine.dll.config
+E:\test\NBGis\bin\plugin\NBGIS.PluginEngine.dll
+E:\test\NBGis\bin\plugin\NBGIS.PluginEngine.pdb
+E:\test\NBGis\NBGIS.PluginEngine\obj\Debug\ResolveAssemblyReference.cache
+E:\test\NBGis\NBGIS.PluginEngine\obj\Debug\NBGIS.PluginEngine.dll
+E:\test\NBGis\NBGIS.PluginEngine\obj\Debug\NBGIS.PluginEngine.pdb

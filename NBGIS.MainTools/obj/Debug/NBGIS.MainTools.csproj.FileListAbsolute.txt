@@ -1,0 +1,5 @@
+E:\test\NBGis\bin\plugin\NBGIS.MainTools.dll
+E:\test\NBGis\bin\plugin\NBGIS.MainTools.pdb
+E:\test\NBGis\NBGIS.MainTools\obj\Debug\ResolveAssemblyReference.cache
+E:\test\NBGis\NBGIS.MainTools\obj\Debug\NBGIS.MainTools.dll
+E:\test\NBGis\NBGIS.MainTools\obj\Debug\NBGIS.MainTools.pdb
